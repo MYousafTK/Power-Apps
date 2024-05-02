@@ -3,11 +3,17 @@
 # 1- SMC Kanban Board
 
 This Power Apps project revolutionizes task management with the agility and clarity of a Kanban board. Seamlessly integrated into your workflow, it empowers teams to visualize, prioritize, and track tasks effortlessly. From task creation to completion, our solution streamlines collaboration, boosts productivity, and ensures projects stay on track. Whether you're managing projects, workflows, or daily tasks, our Power Apps Kanban board offers unparalleled flexibility and efficiency to drive success.
+
 Home Screen
+
 ![image](https://github.com/MYousafTK/Power-Apps/assets/128382787/2db6dd20-0519-40fe-9ecf-5cc4c23914f4)
+
 Projects Screen
+
 ![image](https://github.com/MYousafTK/Power-Apps/assets/128382787/2272b9ee-5f73-4ec8-a126-66ee505de0a6)
+
 Project Board Screen
+
 ![image](https://github.com/MYousafTK/Power-Apps/assets/128382787/fe0c7d15-9f7b-4654-9027-c3c753744e22)
 
 # 2- SMC RW-AI
